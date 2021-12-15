@@ -3,6 +3,10 @@
 Öğretmen adaylarına eğitim bilimleri sınavında yardımcı olması için tasarlandı.
 Java ve room database kullanılarak yazıldı.
 
+### Yükleme Adresi
+
+[Google Play Link for Sorularla Eğitim Bilimleri](https://play.google.com/store/apps/details?id=com.blogspot.hexdumplabs.sorularlaegitimbilimleri)
+
 ### Screenshots
 
 
